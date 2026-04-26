@@ -2,7 +2,7 @@
 Upload security PDFs (CVE reports, OWASP guides, pentest reports) and query them with natural language.
 
 ## What It Does
-Ask "what vulnerabilities were found?" and get an answer from YOUR documents - not generic AI responses.
+Ask "what vulnerabilities were found?" and get an answer from YOUR documents.
 
 ## Tech Stack
 - **FastAPI** - API framework
