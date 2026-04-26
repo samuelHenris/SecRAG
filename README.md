@@ -25,7 +25,7 @@ API key in Kubernetes Secret- never in code, logs, or images
 
 Local embeddings - document content never leaves your infrastructure
 
-## Quick Start
+## Reproduce
 ```bash
 git clone https://github.com/samuelHenris/SecRAG.git
 cd SecRAG
