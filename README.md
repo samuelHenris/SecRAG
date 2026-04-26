@@ -74,9 +74,3 @@ kubectl apply -f k8s/rbac.yaml
 kubectl apply -f k8s/deployment.yaml
 kubectl apply -f k8s/service.yaml
 kubectl apply -f k8s/network-policy.yaml
-
-## Author
-
-Henry-Abiola Samuel Oludare
-github.com/samuelHenris
-linkedin.com/in/samuelhenria
