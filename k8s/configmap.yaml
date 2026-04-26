@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: secrag-config
+  namespace: secrag
+data:
+  model-name: "gemini-2.0-flash"
+  chunk-size: "500"
+  chunk-overlap: "50"
