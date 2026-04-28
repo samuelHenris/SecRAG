@@ -51,8 +51,6 @@ pip install -r app/requirements.txt
 export GEMINI_API_KEY='your-key-here'
 python app/main.py
 
-## API
-
 # Ingest a PDF
 curl -X POST -F "file=@OWASP_Top10.pdf" \
   http://localhost:8000/ingest
